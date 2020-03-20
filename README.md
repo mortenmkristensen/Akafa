@@ -3,7 +3,7 @@
 
 * A project using a modified hungarian algorithm for automatic workplace planning.
 
-* Writtien in Java.
+* Written in Java.
 
 * MSSQL Database implemented with a DAO pattern.
 
