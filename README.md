@@ -1,5 +1,5 @@
 # Akafa
-3. Semester project
+2. Semester project
 
 * A project using a modified hungarian algorithm for automatic workplace planning.
 
