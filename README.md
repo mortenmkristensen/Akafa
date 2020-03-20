@@ -7,3 +7,5 @@
 
 * MSSQL Database implemented with a DAO pattern.
 
+* GUI using Java Swing.
+
